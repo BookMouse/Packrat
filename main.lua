@@ -1,5 +1,3 @@
--- thumbnail image created using perplexity.ai and microsoft paint
-
 -- defining packrat trait
 register_blueprint "trait_packrat"
 {
